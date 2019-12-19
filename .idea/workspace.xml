@@ -6,14 +6,30 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edf97314-5808-478c-ae4c-94b8c6420161" name="Default Changelist" comment="" />
+    <list default="true" id="edf97314-5808-478c-ae4c-94b8c6420161" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\MavenProject\.idea" />
+      </set>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -37,6 +53,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1VCalKqgXmZGLUAeA0QmWaGN4hw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -171,12 +188,24 @@
       <updated>1576759680184</updated>
       <workItem from="1576759685527" duration="4124000" />
       <workItem from="1576764982225" duration="378000" />
-      <workItem from="1576768097096" duration="3576000" />
+      <workItem from="1576768097096" duration="4378000" />
     </task>
+    <task id="LOCAL-00001" summary="测试本地库初始化">
+      <created>1576772114843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576772114843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="测试本地库初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试本地库初始化" />
   </component>
   <component name="WindowStateProjectService">
     <state x="213" y="17" key="#Tomcat_Server" timestamp="1576764558046">
@@ -187,6 +216,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="96" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1576770859407" />
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1576772114153">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1576772114153" />
     <state x="401" y="99" key="FileChooserDialogImpl" timestamp="1576771995604">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -259,6 +292,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1576770843923" />
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2" timestamp="1576772354981">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1576772354981" />
     <state x="324" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1576768098791">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
