@@ -7,16 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="edf97314-5808-478c-ae4c-94b8c6420161" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/MavenProject_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/MavenProject_war_exploded.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MavenProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MavenProject.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MavenProject_war_exploded/WEB-INF/classes/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MavenProject_war_exploded/WEB-INF/classes/main/webapp/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MavenProject_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/MavenProject_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/webapp/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/main/webapp/index.jsp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +188,7 @@
       <workItem from="1576768097096" duration="6481000" />
       <workItem from="1576775842690" duration="493000" />
       <workItem from="1576811805956" duration="5587000" />
-      <workItem from="1576840342745" duration="1668000" />
+      <workItem from="1576840342745" duration="1910000" />
     </task>
     <task id="LOCAL-00001" summary="测试本地库初始化">
       <created>1576772114843</created>
@@ -213,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576772757516</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="新增一个分支test1">
+      <created>1576842198941</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576842198941</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,7 +220,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="测试本地库初始化" />
     <MESSAGE value="新增一个类" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增一个类" />
+    <MESSAGE value="新增一个分支test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="新增一个分支test1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="213" y="17" key="#Tomcat_Server" timestamp="1576764558046">
@@ -233,10 +232,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="96" y="36" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1576825911645" />
-    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1576772756962">
+    <state x="247" y="0" key="CommitChangelistDialog2" timestamp="1576842198370">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1576772756962" />
+    <state x="247" y="0" key="CommitChangelistDialog2/0.0.1280.760@0.0.1280.760" timestamp="1576842198370" />
     <state x="401" y="99" key="FileChooserDialogImpl" timestamp="1576825192879">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
@@ -309,10 +308,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="121" y="0" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1576827927899" />
-    <state x="233" y="114" key="Vcs.Push.Dialog.v2" timestamp="1576772783407">
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2" timestamp="1576842220125">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="233" y="114" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1576772783407" />
+    <state x="233" y="114" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1576842220125" />
     <state x="324" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1576840343105">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
